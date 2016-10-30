@@ -1,0 +1,30 @@
+{
+  "name": "react-native-hiding-navbar-scrollview",
+  "version": "0.0.1",
+  "description": "A react-native scroll-view with auto-hiding navbar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liusy182/react-native-hiding-navbar-scrollview.git"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "peerDependencies": {
+    "react-native": ">=0.26.0",
+    "react": ">=15.0.2",
+    "react-native-navbar": "0.7.1"
+  },
+  "author": "liusy182",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liusy182/react-native-hiding-navbar-scrollview/issues"
+  },
+  "homepage": "https://github.com/liusy182/react-native-hiding-navbar-scrollview#readme",
+  "engines": {
+    "node": ">=4.2.1"
+  },
+}
